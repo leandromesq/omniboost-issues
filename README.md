@@ -1,6 +1,6 @@
-# Omniboost Issues
+# Unburden Issues
 
-This repository is the public issue tracker for Omniboost.
+This repository is the public issue tracker for Unburden.
 
 - Use Issues to report bugs, usability problems, and feature requests.
 - In-app bug reports are filed here automatically.
